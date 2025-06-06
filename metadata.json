@@ -1,0 +1,5 @@
+{
+  "name": "ChronoShift: Advanced Timezone Converter",
+  "description": "A React application for advanced timezone conversion, meeting planning, DST awareness, and fun facts powered by Gemini API.",
+  "requestFramePermissions": []
+}
